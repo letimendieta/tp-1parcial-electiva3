@@ -1,4 +1,4 @@
-# tp-1parcial-elevctiva3
+# tp-1parcial-electiva3
 
 Buenas Tardes Profesor:
 
